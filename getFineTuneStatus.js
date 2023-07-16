@@ -21,5 +21,5 @@ async function getFineTuneStatus(fineTuneId) {
   }
 }
 
-const fineTuneId = "ft-4kVp8BoqYiaIi2jopueZnub5"; // Replace with your fine-tuning job ID
+const fineTuneId = "ft-DBmsDR30NzCc48in3Giibslm"; // Replace with your fine-tuning job ID
 getFineTuneStatus(fineTuneId);
