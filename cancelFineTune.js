@@ -10,4 +10,4 @@ async function cancelFineTune(fineTuneId) {
 }
 
 // Replace 'YOUR_FINE_TUNE_ID' with the actual ID of the fine-tune job you want to cancel
-cancelFineTune("ft-4kVp8BoqYiaIi2jopueZnub5");
+cancelFineTune("ft-xyzauCra0XCJVE6A93V6Cx9N");

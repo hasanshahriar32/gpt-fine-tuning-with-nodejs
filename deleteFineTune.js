@@ -3,7 +3,7 @@ import { openai } from "./api.js";
 async function deleteFineTune() {
   try {
     const response = await openai.deleteModel(
-      "davinci:ft-sj-innovation-2023-05-09-07-55-48"
+      "curie:ft-sj-innovation-2023-07-18-07-12-13"
     );
     console.log("response: ", response);
   } catch (err) {

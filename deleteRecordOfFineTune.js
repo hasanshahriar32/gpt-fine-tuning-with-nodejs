@@ -14,4 +14,4 @@ async function deleteFineTune(fineTuneId) {
 }
 
 // Replace 'YOUR_FINE_TUNE_ID' with the actual ID of the fine-tune job you want to delete
-deleteFineTune("ft-oigT9qCkIjYIY3GV5q8AY64rID");
+deleteFineTune("ft-19HcPqvSGRvUphNEoHGksTy4");
