@@ -5,7 +5,7 @@ async function createFineTune() {
   try {
     const response = await openai.createFineTune({
       training_file: fileId,
-      model: "curie:ft-sj-innovation-2023-07-19-18-47-10",
+      model: "davinci:ft-sj-innovation-2023-07-22-00-14-19",
       batch_size: 1, // Set the desired batch size
       prompt_loss_weight: 0.01,
       learning_rate_multiplier: 0.1, // Set the desired learning rate
